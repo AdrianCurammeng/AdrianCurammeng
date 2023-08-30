@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdrianCurammeng, a.k.a Adrian Curammeng.
-- 🏫 I am currently a Grade 12/Sophomore at Francis Libermann Catholic Secondary School.
-- 👀 I’m interested in programming, and pursuing programming in my higher education.
+- 🏫 I am a freshman at Seneca College.
+- 👀 I am studying Computer Programming and Analysis.
 - 🌱 I’m currently learning the very basics of coding.
 
 <!---
